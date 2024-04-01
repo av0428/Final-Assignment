@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to the Internet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="page2.html">Page 2</a></li>
+            <li><a href="page3.html">Page 3</a></li>
+            <li><a href="page4.html">Page 4</a></li>
+            <li><a href="page5.html">Page 5</a></li>
+            <li><a href="citation.html">Citation</a></li>
+        </ul>
+    </nav>
+    <div class="content">
+        <h1>Welcome to the Internet</h1>
+        <p>The Internet has revolutionized the way we communicate, access information, and conduct business. Originating from ARPANET, a project of the US Department of Defense, the Internet has evolved into a global network connecting billions of devices worldwide.</p>
+        <p>With the advent of the World Wide Web in the early 1990s, the Internet became accessible to the general public, leading to an explosion of online content and services. Today, the Internet permeates nearly every aspect of modern life, from social interactions to commerce and education.</p>
+        <p>Its significance cannot be overstated, as it has democratized information, facilitated global collaboration, and spurred innovation across industries. As we continue to rely on the Internet for essential tasks and entertainment, understanding its history and infrastructure is crucial.</p>
+        <img src="internet_timeline.jpg" alt="Internet Timeline">
+    </div>
+</body>
+</html>
